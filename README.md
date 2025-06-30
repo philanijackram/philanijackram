@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philanijackram
-- 👀 I’m interested in Mobile Development mainly Android but also intrested in learning IOS development in the near future.
+- 👀 I’m interested in Mobile Development mainly Android but also learning IOS development in my spare time.
 - 🌱 I’m currently learning Jetpack Compose and Swift.
 - 💞️ I’m looking to collaborate on Mobile Applications Android and IOS
 - 📫 How to reach me philanijackr@gmail.com
