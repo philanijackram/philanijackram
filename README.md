@@ -43,7 +43,7 @@ I love old and broken cars 🚗 — I look at them and see what they *could* be 
 
 **Networking & Backend**  
 - Retrofit, Ktor, REST APIs  
-- Firebase Authentication  
+- Firebase  
 
 **Dependency Injection**  
 - Dagger 2, Hilt, Koin  
