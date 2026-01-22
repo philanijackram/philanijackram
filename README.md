@@ -26,7 +26,7 @@ Mainly Android-focused, but also exploring **iOS** and **cross-platform** develo
 ---
 
 ## ⚡ Fun Fact
-I love old and broken cars 🚗 — I look at them and see what they *could* be if I restored them.
+When Iam alone I do stand-up comedy and I laugh at my own jokes cause I am funny. 😅 😅
 
 ---
 
