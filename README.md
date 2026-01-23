@@ -26,7 +26,7 @@ Mainly Android-focused, but also exploring **iOS** and **cross-platform** develo
 ---
 
 ## ⚡ Fun Fact
-When Iam alone I do stand-up comedy and I laugh at my own jokes cause I am funny. 😅 😅
+When I am alone I do stand-up comedy and I laugh at my own jokes cause I am funny. 😅 😅
 
 ---
 
@@ -35,7 +35,7 @@ When Iam alone I do stand-up comedy and I laugh at my own jokes cause I am funny
 **Mobile Development**  
 - Android SDK, Kotlin, Java  
 - UI: Jetpack Compose, XML, Material Design  
-- Architectures: MVVM, MVI, Clean Architecture  
+- Architectures: MVVM, Clean Architecture  
 
 **Concurrency & Data**  
 - Coroutines, Flow, RxJava  
@@ -46,7 +46,7 @@ When Iam alone I do stand-up comedy and I laugh at my own jokes cause I am funny
 - Firebase  
 
 **Dependency Injection**  
-- Dagger 2, Hilt, Koin  
+- Dagger, Hilt, Koin  
 
 **Testing & Quality**  
 - JUnit, Mockito, Espresso  
