@@ -20,7 +20,7 @@ Mainly Android-focused, but also exploring **iOS** and **cross-platform** develo
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: **[philanijackr@gmail.com](mailto:philanijackram@gmail.com)**
+- 📧 Email: **[philanijackram@gmail.com](mailto:philanijackram@gmail.com)**
 - 💼 LinkedIn: www.linkedin.com/in/philanijackram
 
 ---
